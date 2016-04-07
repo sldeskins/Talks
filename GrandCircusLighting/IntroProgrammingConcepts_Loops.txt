@@ -1,0 +1,180 @@
+Introduction to Program Flow Controls - Loops
+
+outline
+    - Concept a of loop
+		- real world examples
+		- types of loops in programming land
+    - a little hands on coding and implementations
+
+ resources and reference for further
+ 
+	
+	
+
+What is a loop?
+---------------
+student participation.
+
+	- race tracks
+	- daily routine 
+
+
+Something that repeats:
+
+	Did you pick up you clothes?
+	Did you do your home work?
+	Did you take the trash out?
+
+play list repeats.
+
+to process like washing dishes
+- take dirty dishes 
+	put plates in lower rack
+	put cups in upper rack
+- load into dish washer
+- put soap
+- run dish washer
+- empty dish washer
+
+
+For  - infinite
+For While  check before steps
+For Until  check after steps
+Foreach 
+
+early exits
+continue - to next item
+break - out of loop
+
+
+coding set up
+
+
+browser with javascript enable: Explore/IE ,Chrome, FireFox (non-text based)
+a text editor: notepad
+
+Welcome
+ - why I'm frowning
+   Mac's challenges with setting up a development environment.
+   Xamarin
+   
+   
+  iterate collection
+   
+   double conditions (while amount >0 and unpaid bills)
+   process bills
+   
+
+   
+   https://msdn.microsoft.com/en-us/library/5z06z1kb.aspx - for next in VB
+   https://msdn.microsoft.com/en-us/library/ch45axte.aspx - for in c#
+   
+   https://msdn.microsoft.com/en-us/library/system.math.sqrt(v=vs.110).aspx  - different language implementations for the same concepts
+   
+   
+ --  for check and break
+   
+   http://www.gameskidsplay.net/jump_rope_ryhmes/jump_apples_pears_peaches_and_plums.htm
+Apples, peaches, pears and plums
+
+Tell me when your birthday comes,
+
+You would then skip "peppers" (or really fast skipping) and say the months of the year (Jan, Feb, Mar etc) trying to not get out until you reached the month of your birthday.
+
+Contributed by Terry Hannigan
+   
+   
+ --  for count
+   
+"Blondie and Dagwood went to town, 
+
+Blondie bought an evening gown,
+
+Dagwood bought the paper, 
+
+this is what it said, 
+
+close your eyes and
+
+count to ten, if you miss take an end! 
+
+One, two, three, four, five,
+
+six, seven, eight, nine, ten!" 
+
+Contributed by: Alan W.
+--
+http://www.gameskidsplay.net/jump_rope_ryhmes/jack_be_nimble.htm
+JACK BE NIMBLE JACK BE QUICK JACK JUMPED OVER THE CANDLE STICK.
+MUMBLE, KICK, SIZZLER, SPLIT, POP-UPS 10 TO 1 - HIT IT. 10,9,8,7,6,5,4,3,2,1. 
+--
+ 
+ http://www.gameskidsplay.net/jump_rope_ryhmes/jump_miss_mary_mack.htm
+Miss Mary Mack, Mack, Mack
+All dressed in black, black, black
+With silver buttons, buttons, buttons
+All down her back, back, back
+She asked her mother, mother, mother
+For fifty cents, cents, cents
+To see the elephant, elephant, elephant
+Jump the fence, fence fence
+They jumped so high, high, high 
+They touched the sky, sky, sky 
+And didn't come back, back, back 
+Till the fourth of July, July, July
+Contributed by Angela Martin and Heidi Wallis
+
+
+-- loops within loops
+http://www.gameskidsplay.net/jump_rope_ryhmes/jump_blue_bells_cockle_shells.htm
+
+
+-- for break
+http://www.gameskidsplay.net/jump_rope_ryhmes/jump_cin.htm
+
+
+Cinderella, dressed in yellow
+
+went upstairs to kiss a 'fella'
+
+made a mistake
+
+and kissed a snake
+
+how many doctors
+
+did it take?
+
+[count until someone messes up]
+
+http://www.gameskidsplay.net/jump_rope_ryhmes/
+
+
+Ice cream soda, cherry on the top, 
+who's your boyfriend/girlfriend I forgot 
+A,B,C,D,E,F,G,H (and so on until the person stops jumping)
+
+
+fancy words for repeat
+
+
+What is a loop - concept
+The types of loop
+
+
+references and resources
+
+C# Programmer's Reference - Iteration statements
+do, for, foreach, in, while
+https://msdn.microsoft.com/en-us/library/32dbftby(v=vs.140).aspx
+   
+
+https://msdn.microsoft.com/en-us/library/618ayhy6(v=vs.71).aspx
+
+
+
+
+
+99 bottles of beer
+
+

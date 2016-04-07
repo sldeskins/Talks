@@ -1,0 +1,21 @@
+1. Windows Native OS (7 or higher) 
+or VM with Windows OS
+(access to a licensed Windows OS that Visual Studio 2015 is already installed or can be installed.)
+
+   if needed: Oracle VirtalBox (Windows/Mac) https://www.virtualbox.org/
+	
+2A. optional access to Azure
+2B. strongly recommended https://www.dreamspark.com/  get a dreamspark or equivalent 
+
+3. An IDE Visual Studio 2015.  Community Edition at least
+https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
+
+	 VS, Mono or SharpDevelop 
+	 WebMatrix
+
+	
+4. as needed:
+don't go installing everything on this list all at once
+it depends upon what you're working with
+
+	http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx
