@@ -1,0 +1,109 @@
+Recursion Assumptions:
+ 
+Students know what variables are. 
+Students know what functions and parameters are.
+Students know basic program control statements as if.  
+
+Have visual studio and are familiar with a project and solution.
+
+
+What is recursion:
+	- Definition of Recursion
+    - Discussion and an Example
+
+Coding Exercise:
+   Palindrome string test using recursion
+   
+Question and Answers
+
+References and Resources
+
+   
+Examples of 
+
+A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward. Allowances may be made for adjustments to capital letters, punctuation, and word dividers. Famous examples include "A man, a plan, a canal, Panama!", "Amor, Roma", "race car", "stack cats", "step on no pets", "taco cat", "put it up", "Was it a car or a cat I saw?" and "No 'x' in Nixon".
+
+
+Looping
+
+In mathematics and computer science, a class of objects or methods exhibit recursive behavior when they can be defined by two properties:
+
+A simple base case (or cases)—a terminating scenario that does not use recursion to produce an answer
+A set of rules that reduce all other cases toward the base case
+
+
+What is recursion?
+
+
+Comes from mathematics
+
+Another way of writing loops.
+
+
+Tale recursion
+
+
+
+Code examples
+
+
+What is recursion
+
+
+For example, the factorial function can be defined recursively by the equations 0! = 1 and, for all n > 0, n! = n(n − 1)!. 
+
+
+Recursion in computer science is a method where the solution to a problem depends on solutions to smaller instances of the same problem (as opposed to iteration).[
+ Graham, Ronald; Donald Knuth; Oren Patashnik (1990). Concrete Mathematics. Chapter 1: Recurrent Problems.
+
+
+
+  series for e = 1/0! + 1/1! + 1/2! + 1/3! + ...)
+  
+  The code above specifies a list of strings to be either empty, or a structure that contains a string and a list of strings. The self-reference in the definition permits the construction of lists of any (finite) number of strings.
+
+Another example of inductive definition is the natural numbers (or positive integers):
+
+A natural number is either 1 or n+1, where n is a natural number.
+Similarly recursive definitions are often used to model the structure of expressions and statements in programming languages. Language designers often express grammars in a syntax such as Backus-Naur form; here is such a grammar, for a simple language of arithmetic expressions with multiplication and addition:
+
+ <expr> ::= <number>
+          | (<expr> * <expr>)
+          | (<expr> + <expr>)
+This says that an expression is either a number, a product of two expressions, or a sum of two expressions. By recursively referring to expressions in the second and third lines, the grammar permits arbitrarily complex arithmetic expressions such as (5 * ((3 * 6) + 8)), with more than one product or sum operation in a single expression.
+ 
+
+http://programmers.stackexchange.com/questions/25052/in-plain-english-what-is-recursion
+a mathematical function...
+... that calls itself to compute a value corresponding to an n-th element...
+... and which defines some boundaries.
+Usually, you either get a "huh huh, whatev'" at b
+
+Factorial
+
+Factorial is a very simple math concept to understand, and the implementation is very close to its mathematical representation. However, they might not get it at first.
+
+Recursive Definition of the Factorial Operation
+
+
+
+programming example
+Recurrence relation for greatest common divisor, where x \% y expresses the remainder of x / y:
+
+\gcd(x,y) = \gcd(y, x \% y) if y \neq 0
+\gcd(x,0) = x
+
+
+
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, https://commons.wikimedia.org/w/index.php?curid=228623
+
+
+https://en.wikipedia.org/wiki/Recursion_%28computer_science%29
+
+
+
+
+ redivider, noon, civic, radar, level, rotor, kayak, reviver, racecar, redder, madam, and refer.
+ 
+ 
+ https://commons.wikimedia.org/wiki/File:Sierpinski_triangle.svg
